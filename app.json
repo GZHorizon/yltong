@@ -1,0 +1,37 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "defaultTitle": "一脸通",
+    "backgroundColor": "#F5F5F9",
+    "titleBarColor": "#01cbe3",
+    "pullRefresh": false,
+    "allowsBounceVertical": true
+  },
+  "tabBar": {
+    "textColor": "#c3c3c3",
+    "selectedColor": "#01cbe3",
+    "backgroundColor": "#F5F5F9",
+    "items": [ 
+      {
+        "pagePath": "pages/index/index",
+        "icon": "image/home.png",
+        "activeIcon": "image/home-a.png",
+        "name": "工作"
+      },
+      {
+        "pagePath": "pages/card/index",
+        "icon": "image/card.png",
+        "activeIcon": "image/card-a.png",
+        "name": "通讯录"
+      },
+      {
+        "pagePath": "pages/card/index2",
+        "icon": "image/card.png",
+        "activeIcon": "image/card-a.png",
+        "name": "我的"
+      }
+    ]
+  }
+}
