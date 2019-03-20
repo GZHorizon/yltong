@@ -4,7 +4,7 @@
   ],
   "window": {
     "defaultTitle": "一脸通",
-    "backgroundColor": "#F5F5F9",
+    "backgroundColor": "#fe43de",
     "titleBarColor": "#01cbe3",
     "pullRefresh": false,
     "allowsBounceVertical": true
